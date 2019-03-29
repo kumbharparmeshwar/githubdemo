@@ -1,3 +1,3 @@
 # githubdemo
 Github Demo
-java code github demo
+java code github demo project
